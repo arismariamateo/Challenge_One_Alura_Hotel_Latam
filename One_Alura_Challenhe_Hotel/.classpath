@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Diomer Castro/eclipse-workspace/One_Alura_Challenhe_Hotel/jars/mchange-commons-java-0.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diomer Castro/eclipse-workspace/One_Alura_Challenhe_Hotel/jars/c3p0-0.9.5.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diomer Castro/eclipse-workspace/One_Alura_Challenhe_Hotel/jars/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diomer Castro/eclipse-workspace/One_Alura_Challenhe_Hotel/jars/mysql-connector-java-8.0.17.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
